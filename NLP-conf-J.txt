@@ -1,0 +1,21 @@
+CCF-A
+ACL 	ACL			conf
+AAAI	AAAI		conf
+IJCAI	Morgan		conf
+NIPS	MIT			conf
+
+CCF-B
+TSLP	ACM			J
+TASLP	IEEE		J
+JSLHR				J
+COLT	Springer	conf
+EMNLP	ACL			conf
+COLING	ACM			conf
+
+CCF-C
+TALIP	ACM			J
+AIM		Elsevier	J
+NLE		Cambridge	J
+CoNLL	CoNLL		conf
+NAACL	NAACL		conf
+
