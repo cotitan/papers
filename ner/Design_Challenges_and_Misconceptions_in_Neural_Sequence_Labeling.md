@@ -1,4 +1,4 @@
-## Design Challenges and Misconceptions in Neural SequenceLabeling
+## Design Challenges and Misconceptions in Neural Sequence Labeling
 #### COLING 2018
 ### Motivation
 当前用于序列标注的模型很多，要从所有的模型中，选择效果最好的模型，并不是一件简单的事情，不能只看F1值，因为各模型的实验条件不同，最终得到的F1也不是在同一实验环境下得到的，故对比性不强。具体不同点如下
